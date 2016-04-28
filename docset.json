@@ -1,0 +1,10 @@
+{
+    "name": "HaxeFlixel",
+    "version": "4.0.1",
+    "archive": "HaxeFlixel.docset.tgz",
+    "author": {
+        "name": "Shelby Allen",
+        "link": "https://github.com/Shelbyladallen"
+    },
+    "aliases": []
+}
